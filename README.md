@@ -29,7 +29,7 @@ Hi, I'm Bilel Khadhraoui!
 I-am-bilelkh@github
 -------------------------
 💻 I am a self taught Full Stack JS Developer
-📚 I have a Engineer in Computer Science from Esprit the University at Tunisia
+📚 I have a Engineer in Computer Science
 📝 I have a strong interest in new technologies
 🔭 Working on Vue Js Framework
 🌱 Learning about best architecture and best practices
