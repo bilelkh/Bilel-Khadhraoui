@@ -13,15 +13,11 @@ Hi, I'm Bilel Khadhraoui!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilel1996k@gmail.com)](mailto:bilel1996k@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/_weltonfelix/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=52558338&text=Hi!)](https://api.whatsapp.com/send?phone=52558338&text=Hi!)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/bilel.khadhraoui.90/)
+[![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/bilelkh?label=follow&style=social)](https://github.com/bilelkh)
 <img align="left" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="350" height="300" />
-
-
-
-
- <img src="https://gpvc.arturio.dev/bilelkh" alt="Profile views" /> <a href="https://github.com/bilelkh/bilelkh/"> </a> 
+<img src="https://gpvc.arturio.dev/bilelkh" alt="Profile views" /> <a href="https://github.com/bilelkh/bilelkh/"> </a> 
 
 <hr>
 
